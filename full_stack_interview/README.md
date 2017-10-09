@@ -6,11 +6,17 @@ para o avaliador responsável.
 A aplicação deve ter:
 
 -Código fonte (Organizado e estruturado da forma que achar mais conveniente)
+
 -Requests básicos para testes (curl ou wget por favor)
+
 -Desenvolvimento de Testes;
+
 -Documentação detalhando:
+
   -Ambiente de execução e testes;
+
   -Script de inicialização e como executar;
+
   -As escolhas de tecnologias e de desenvolvimento;
 
 
@@ -32,7 +38,9 @@ Bares de Belo Horizonte estão criando um aplicativo para ajudar na divulgação
 O Aplicativo terá algumas funcionalidades que a aplicação deve oferecer.
 
 -> Busca por geolocalização: Busca por proximidade de uma geolocalização(Considere tudo dentro de 1km)
+
 -> Busca por especialidade: Busca pela especialidade do estabelecimento (permite multiplas opções)
+
 -> Busca pelo nome: Busca por nome do estabelecimento;
 
 -> Construa um roteiro: A ideia aqui é que o aplicativo construa um roteiro rápido a partir da geolocalização atual do usuário e envie uma resposta para o usuário contendo o menor trajeto para que ele possa aproveitar todas as ESPECIALIDADES dentro do bairro em que ele está.
